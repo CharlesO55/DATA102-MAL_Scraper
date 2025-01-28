@@ -7,8 +7,8 @@ Common Variables to Alter:
 
 Files
 - Notebooks:
-  - HW1 # Step by step Discussion
-  - TestCases # Full automated implementation
+  - Dev # Step by step Discussion
+  - Automation # Full automated implementation
 - Modules
   - Scraper.py
   - ScrapedPage.py
@@ -23,10 +23,10 @@ Packages used:
   
 
 Outputs [.csv files]:
-- Season
-- Detail
-- Statistics/Submissions
-- Statistics/Summary
+- Season/
+- Detail/
+- Statistics/Submissions/
+- Statistics/Summary/
 
 Targets:
 - Season Page containing Anime Titles and Page Links
