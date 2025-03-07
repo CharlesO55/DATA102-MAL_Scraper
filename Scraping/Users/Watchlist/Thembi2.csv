@@ -1,0 +1,95 @@
+,MAL_id,Title,Score,Type
+0,40351,Pokemon_2019,8.0,TV
+1,37141,Hataraku_Saibou,10.0,TV
+2,41694,Hataraku_Saibou_Black,8.0,TV
+3,39586,Hataraku_Saibou,9.0,TV
+4,1535,Death_Note,8.0,TV
+5,35551,Eevee_to_Colorful_Friends,7.0,ONA
+6,32901,Eromanga-sensei,6.0,TV
+7,36792,Eromanga-sensei_OVA,6.0,OVA
+8,263,Hajime_no_Ippo,10.0,TV
+9,12069,Hajime_no_Ippo__Boxer_no_Kobushi,7.0,Special
+10,264,Hajime_no_Ippo__Champion_Road,8.0,TV Special
+11,265,Hajime_no_Ippo__Mashiba_vs_Kimura,8.0,OVA
+12,5258,Hajime_no_Ippo__New_Challenger,8.0,TV
+13,19647,Hajime_no_Ippo__Rising,8.0,TV
+14,31327,Shokugeki_no_Souma_OVA,7.0,OVA
+15,28171,Shokugeki_no_Souma,8.0,TV
+16,40902,Shokugeki_no_Souma__Gou_no_Sara,9.0,TV
+17,39940,Shokugeki_no_Souma__Shin_no_Sara,9.0,TV
+18,32282,Shokugeki_no_Souma__Ni_no_Sara,9.0,TV
+19,34480,Shokugeki_no_Souma__Ni_no_Sara_OVA,9.0,OVA
+20,35788,Shokugeki_no_Souma__San_no_Sara,9.0,TV
+21,36962,Shokugeki_no_Souma__San_no_Sara_-_Kyokuseiryou_no_Erina,9.0,OVA
+22,36949,Shokugeki_no_Souma__San_no_Sara_-_Tootsuki_Ressha-hen,9.0,TV
+23,20583,Haikyuu,9.0,TV
+24,28891,Haikyuu_Second_Season,9.0,TV
+25,32935,Haikyuu_Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou,9.0,TV
+26,40262,Haikyuu_Riku_vs_Kuu,8.0,OVA
+27,35111,Haikyuu_Movie_4__Concept_no_Tatakai,8.0,Movie
+28,35110,Haikyuu_Movie_3__Sainou_to_Sense,8.0,Movie
+29,29755,Haikyuu_Movie_1__Owari_to_Hajimari,8.0,Movie
+30,38883,Haikyuu_To_the_Top,9.0,TV
+31,40776,Haikyuu_To_the_Top_Part_2,9.0,TV
+32,30364,Haikyuu_Movie_2__Shousha_to_Haisha,8.0,Movie
+33,16157,Choujigen_Game_Neptune_The_Animation,9.0,TV
+34,40073,Choujigen_Game_Neptune__Hi%E2%98%86Light,9.0,Special
+35,34933,Kakegurui,6.0,TV
+36,37086,Kakegurui%C3%97%C3%97,6.0,TV
+37,19815,No_Game_No_Life,8.0,TV
+38,24991,No_Game_No_Life_Specials,8.0,Special
+39,33674,No_Game_No_Life__Zero,8.0,Movie
+40,30276,One_Punch_Man,10.0,TV
+41,34134,One_Punch_Man_2nd_Season,8.0,TV
+42,39652,One_Punch_Man_2nd_Season_Commemorative_Special,6.0,TV Special
+43,39705,One_Punch_Man_2nd_Season_Specials,6.0,Special
+44,31772,One_Punch_Man_Specials,6.0,Special
+45,31704,One_Punch_Man__Road_to_Hero,8.0,OVA
+46,527,Pokemon,7.0,TV
+47,11019,Pokemon_3D_Adventure__Mew_wo_Sagase,7.0,Movie
+48,11009,Pokemon_3D_Adventure_2__Pikachu_no_Kaitei_Daibouken,7.0,Movie
+49,1564,Pokemon_Advanced_Generation,8.0,TV
+50,9107,Pokemon_Best_Wishes,6.0,TV
+51,14093,Pokemon_Best_Wishes_Season_2,6.0,TV
+52,1565,Pokemon_Diamond___Pearl,8.0,TV
+53,10302,Pokemon_Diamond___Pearl_Specials,7.0,TV Special
+54,31240,Re_Zero_kara_Hajimeru_Isekai_Seikatsu,8.0,TV
+55,39921,Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow_-_Manner_Movie,8.0,Movie
+56,39587,Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season,9.0,TV
+57,42203,Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2,9.0,TV
+58,11757,Sword_Art_Online,7.0,TV
+59,21881,Sword_Art_Online_II,7.0,TV
+60,31765,Sword_Art_Online_Movie__Ordinal_Scale,7.0,Movie
+61,36474,Sword_Art_Online__Alicization,6.0,TV
+62,39597,Sword_Art_Online__Alicization_-_War_of_Underworld,7.0,TV
+63,40540,Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season,7.0,TV
+64,33926,Quanzhi_Gaoshou,8.0,ONA
+65,37078,Quanzhi_Gaoshou_Specials,9.0,ONA
+66,37932,Quanzhi_Gaoshou_2,9.0,ONA
+67,40080,Quanzhi_Gaoshou__Dianfeng_Rongyao,9.0,Movie
+68,43692,Gokushufudou,10.0,ONA
+69,666,JoJo_no_Kimyou_na_Bouken,,OVA
+70,14719,JoJo_no_Kimyou_na_Bouken_TV,,TV
+71,665,JoJo_no_Kimyou_na_Bouken__Adventure,,OVA
+72,31933,JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai,,TV
+73,37991,JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze,,TV
+74,38972,JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze_Recaps,,TV Special
+75,3603,JoJo_no_Kimyou_na_Bouken__Phantom_Blood,,Movie
+76,20899,JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders,,TV
+77,26055,JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_-_Egypt-hen,,TV
+78,48661,JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean,,ONA
+79,42914,Planetarium_Pokemon__Aurora_kara_no_Message,,Movie
+80,14123,Pokemon_Black_and_White_2__Introduction_Movie,,PV
+81,49730,Pokemon_Evolutions,,ONA
+82,31911,Pokemon_Fushigi_no_Dungeon__Magnagate_to_Mugendai_Meikyuu,,ONA
+83,2842,Pokemon_Fushigi_no_Dungeon__Shutsudou_Pokemon_Kyuujotai_Ganbaruzu,,TV Special
+84,17115,Pokemon_Best_Wishes_Season_2__Episode_N,,TV
+85,17873,Pokemon_Best_Wishes_Season_2__Decolora_Adventure,,TV
+86,20743,Pokemon_Best_Wishes_Season_2__Decolora_Adventure_-_Dent_to_Takeshi_Gyarados_no_Gekirin,,TV Special
+87,1525,Pokemon_Crystal__Raikou_Ikazuchi_no_Densetsu,,TV Special
+88,40861,Hakumei_no_Tsubasa,,ONA
+89,43568,Hakumei_no_Tsubasa__Expansion_-_Hoshi_no_Matsuri,,ONA
+90,23299,Pokemon_Best_Wishes_Season_2__Decolora_Adventure_-_Iris_vs_Ibuki_Dragon_Master_e_no_Michi,,TV Special
+91,42136,Pokemon_Diamond___Pearl_Atsumare_Pokemon_Planet_Center,,Movie
+92,36825,Pokemon_Diamond___Pearl__Clip_Show,,TV Special
+93,49559,Quanzhi_Gaoshou_3,,ONA
