@@ -1,9 +1,13 @@
 import requests
 
 from bs4 import BeautifulSoup
+from fake_useragent import UserAgent
 
 import time
 import numpy as np
+
+
+
 
 from enum import Enum
 
@@ -31,7 +35,11 @@ class Scraper:
         #include a delay per get() to avoid DDOS 
         Scraper.delay()
         
-        response = requests.get(url)
+        #response = requests.get(url)
+        header = {'User-Agent': UserAgent(platforms=['desktop']).random}
+        print(header)
+        response = requests.get(url, headers=header)
+        
         if response.status_code != requests.status_codes.codes.all_ok:
             raise ConnectionError
         
