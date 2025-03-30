@@ -28,7 +28,7 @@ class Scraper:
 
     @staticmethod
     def delay():
-        time.sleep(np.random.rand() * 10 + Scraper.MINIMUM_DELAY)
+        time.sleep(Scraper.MINIMUM_DELAY)
 
     @staticmethod
     def scrape(url : str) -> BeautifulSoup:
